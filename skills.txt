@@ -1,0 +1,4 @@
+Skill1. Experience in project management and QA approaches.[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[ -[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[D[D[D
+Skill2 -Working knowledge of testing tools, programming languages.
+Skill3 -Error documentation and debugging.
+Skill4 -Test management software experience.
